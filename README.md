@@ -16,7 +16,7 @@ Weekly report code examples for neural speech signal processing course.
 | car_demo.py | Common Average Reference verification | 2.1 Preprocessing Pipeline |
 | bandpass_filter.py | Bandpass filter for HGA (70-150 Hz) | 2.1 Preprocessing Pipeline |
 | zscore_demo.py | Z-score normalization verification | 2.2 Envelope & Normalization |
-| feature_matrix_demo.py | Feature matrix construction (simulated pipeline) | 2.3 Feature Matrix Construction |
+| feature_matrix_demo.py | Feature matrix construction (simulated pipeline) | 2.2 Envelope & Normalization |
 | rnn_gradient.py | RNN hidden state + gradient vanishing | 3.1 RNN → LSTM → BiLSTM |
 | lstm_cell.py | LSTM gating mechanism + long-term retention | 3.1 RNN → LSTM → BiLSTM |
 | bilstm_context.py | BiLSTM bidirectional context aggregation | 3.1 RNN → LSTM → BiLSTM |
