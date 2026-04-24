@@ -1,6 +1,6 @@
 """
 hilbert_envelope.py -- Hilbert 变换提取 AM 信号包络验证
-对应周报章节：包络分析与解析信号理解
+对应周报章节：二.2 包络提取与标准化
 """
 
 import numpy as np

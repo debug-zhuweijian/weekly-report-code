@@ -1,6 +1,6 @@
 """
 stft_demo.py -- 离散 STFT 分帧验证：对线性 chirp 信号做 STFT
-对应周报章节：语音信号的时频分析基础（M-02）
+对应周报章节：一.1 从时域到频域
 """
 
 import numpy as np

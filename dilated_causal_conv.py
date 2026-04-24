@@ -1,6 +1,6 @@
 """
 dilated_causal_conv.py -- 膨胀因果卷积与感受野验证
-对应周报章节：序列建模与卷积基础（补充公式 A-05）
+对应周报章节：三.3 卷积基础
 """
 
 import numpy as np

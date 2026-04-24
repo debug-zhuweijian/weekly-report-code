@@ -1,6 +1,6 @@
 """
 mel_filterbank.py -- Mel 滤波器构造验证：Hz->Mel 转换 + 三角滤波器权重
-对应周报章节：感知驱动的语音特征表示
+对应周报章节：一.2 感知驱动的频率压缩
 """
 
 import numpy as np

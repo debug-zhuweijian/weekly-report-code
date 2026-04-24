@@ -1,6 +1,6 @@
 """
 dct_ii_demo.py -- DCT-II 变换与重构验证（正交归一化版）
-对应周报章节：感知驱动的语音特征表示
+对应周报章节：一.3 MFCC 与动态特征
 """
 
 import numpy as np

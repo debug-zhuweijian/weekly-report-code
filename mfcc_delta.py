@@ -1,6 +1,6 @@
 """
 mfcc_delta.py -- Delta / Delta-Delta 回归差分计算及 39 维 MFCC 拼接验证
-对应周报章节：感知驱动的语音特征表示（补充公式 A-01）
+对应周报章节：一.3 MFCC 与动态特征
 """
 
 import numpy as np

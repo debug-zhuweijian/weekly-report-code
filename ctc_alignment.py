@@ -1,6 +1,6 @@
 """
 ctc_alignment.py -- CTC 路径枚举 + collapse + 边际概率求和验证
-对应周报章节：时序对齐问题的进一步理解（补充公式 A-03）
+对应周报章节：三.2 时序对齐
 """
 
 import itertools
